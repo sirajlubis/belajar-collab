@@ -14,6 +14,7 @@ public class Kalkulator {
         System.out.println("2. Pengurangan");
         System.out.println("3. Perkalian");
         System.out.println("4. Pembagian");
+        System.out.println("5. Modulos");
 
         System.out.println("Masukkan pilihan (1/2/3/4)");
         String pilihan = scanner.nextLine();
