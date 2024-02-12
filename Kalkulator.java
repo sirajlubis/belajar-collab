@@ -16,7 +16,7 @@ public class Kalkulator {
         System.out.println("4. Pembagian");
         System.out.println("5. Hasil Bagi");
 
-        System.out.println("Masukkan pilihan (1/2/3/4/6) : ");
+        System.out.println("Masukkan pilihan (1/2/3/4/5) : ");
         String pilihan = scanner.nextLine();
 
         if (pilihan.equals("1") || pilihan.equals("2") || pilihan.equals("3") || pilihan.equals("4")) {
